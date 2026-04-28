@@ -45,7 +45,7 @@
 <br/>
 
 **Google Developer Groups on Campus HUFS**  
-7기
+7기 멤버
 
 </div>
 
